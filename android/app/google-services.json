@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "951709762235",
+    "firebase_url": "https://joonyerconnect-default-rtdb.firebaseio.com",
+    "project_id": "joonyerconnect",
+    "storage_bucket": "joonyerconnect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951709762235:android:d6e19c5f22d7a2cbd31f9e",
+        "android_client_info": {
+          "package_name": "com.example.joonyerconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZLCIhiZYJnR_-3pkZfmnF5GczUHvb6DU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
